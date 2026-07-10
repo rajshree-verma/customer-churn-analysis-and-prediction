@@ -317,3 +317,13 @@ Among these models, Random Forest achieved the best performance.
 
 The analysis shows that customer engagement and activity patterns play an important role in churn prediction. Predictive analytics can help SaaS businesses identify at-risk customers early and develop effective retention strategies.
 
+
+
+
+
+# Author
+
+Rajshree Verma
+
+Data Analytics | Machine Learning
+
