@@ -45,6 +45,15 @@ customer-churn-analysis/
 ├── CODE/
 │   └── customer-churn-analysis-and-prediction.ipynb
 │
+├── IMAGES/
+│   ├── avg_weekly_usage_hours.png
+│   ├── churn_distribution.png
+│   ├── last_login_days_ago.png
+│   ├── payment_failures.png
+│   ├── subscription_plan_churn.png
+│   ├── support_tickets.png
+│   └── tenure_months.png
+│
 └── README.md
 ```
 
