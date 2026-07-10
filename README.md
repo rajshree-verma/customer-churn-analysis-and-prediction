@@ -124,12 +124,6 @@ This indicates that customer retention is a major challenge.
 
 ---
 
-### Customer Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
-
-
----
-
 # Key Analysis Insights
 
 ## Subscription Plan Analysis
