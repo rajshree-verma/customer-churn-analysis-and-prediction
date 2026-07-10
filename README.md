@@ -120,6 +120,8 @@ Duplicate profiles were also checked while ignoring the unique `user_id` column.
 
 ## Customer Churn Distribution
 
+![Churn Distribution](IMAGES/churn_distribution.png)
+
 The dataset contains:
 
 * Churned customers: 1,605
@@ -143,6 +145,8 @@ Churn was analyzed across:
 * Standard
 * Premium
 
+![Subscription Plan Churn](IMAGES/subscription_plan_churn.png)
+
 ### Insight
 
 Churn distribution was similar across all subscription plans.
@@ -156,6 +160,8 @@ This indicates that subscription type alone is not a strong churn driver. Custom
 Feature analyzed:
 
 `avg_weekly_usage_hours`
+
+![Average Weekly Usage Hours](IMAGES/avg_weekly_usage_hours.png)
 
 ### Insight
 
@@ -171,6 +177,8 @@ Feature analyzed:
 
 `last_login_days_ago`
 
+![Last Login Days Ago](IMAGES/last_login_days_ago.png)
+
 ### Insight
 
 Churned customers generally had longer periods of inactivity.
@@ -184,6 +192,8 @@ Customer inactivity is an important indicator of possible churn risk.
 Feature analyzed:
 
 `payment_failures`
+
+![Payment Failures](IMAGES/payment_failures.png)
 
 ### Insight
 
@@ -199,6 +209,8 @@ Feature analyzed:
 
 `support_tickets`
 
+![Support Tickets](IMAGES/support_tickets.png)
+
 ### Insight
 
 Support ticket patterns were similar between churned and retained customers.
@@ -212,6 +224,8 @@ A combination of multiple customer signals is more useful than a single metric.
 Feature analyzed:
 
 `tenure_months`
+
+![Tenure Months](IMAGES/tenure_months.png)
 
 ### Insight
 
